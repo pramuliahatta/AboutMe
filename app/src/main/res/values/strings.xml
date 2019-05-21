@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+
+    <string name="name">Hatta Pramulia</string>
+    <string name="email">hatta@email.unikom.ac.id</string>
+
+    //PROFILE
+    <string name="self_description">Hello, I am a student at UNIKOM. I like reading novels, learning
+        something new, and the other fun things. Now learning Java, C++, and many more.</string>
+    <string name="quote1">\"If you can\'t make it good, at least make it look good.\"\n -- Bill Gates</string>
+    <string name="quote2">\"Life is not fair; get used to it.\"\n -- Bill Gates</string>
+    <string name="quote3">\"It\'s fine to celebrate success but it is more important to heed the lessons of failure.\"\n -- Bill Gates</string>
+
+    //VIEWPAGER
+    <string name="profile">PROFILE</string>
+    <string name="contacts">CONTACTS</string>
+    <string name="friendlist">FRIENDLIST</string>
+
+
+</resources>
